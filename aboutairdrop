@@ -1,0 +1,34 @@
+Struktur repositori:
+/airdrop-crypto
+  ├── README.md
+  ├── airdrop-list.md
+  ├── resources/
+      ├── how-to-participate.md
+      ├── tips-and-tricks.md
+  └── LICENSE
+
+1. README.md
+Ini adalah file utama repositori yang menjelaskan tentang tujuan repositori ini dan memberikan panduan dasar tentang airdrop crypto.
+# Airdrop Crypto
+
+Selamat datang di repositori Airdrop Crypto! Di sini, kami mengumpulkan informasi terbaru tentang berbagai airdrop crypto yang tersedia. Anda akan menemukan panduan tentang cara berpartisipasi dalam airdrop, tips untuk meningkatkan peluang Anda, dan sumber daya lainnya untuk memaksimalkan pengalaman crypto Anda.
+
+## Apa itu Airdrop Crypto?
+
+Airdrop crypto adalah cara bagi proyek cryptocurrency untuk membagikan token atau koin secara gratis kepada pengguna sebagai bagian dari kampanye pemasaran atau distribusi token mereka. Peserta biasanya diminta untuk menyelesaikan beberapa tugas sederhana seperti mengikuti akun media sosial, bergabung dengan grup Telegram, atau mendaftar di platform mereka.
+
+## Cara Berpartisipasi
+
+Lihat file [how-to-participate.md](./resources/how-to-participate.md) untuk panduan lebih lanjut tentang bagaimana Anda bisa mengikuti airdrop dan mulai mengumpulkan token gratis.
+
+## Airdrop yang Sedang Berlangsung
+
+Lihat daftar airdrop yang sedang berlangsung di file [airdrop-list.md](./airdrop-list.md).
+
+## Tips dan Trik
+
+Untuk membantu Anda memaksimalkan peluang sukses di airdrop, lihat [tips-and-tricks.md](./resources/tips-and-tricks.md).
+
+## License
+
+Repositori ini dilisensikan di bawah [MIT License](./LICENSE).
